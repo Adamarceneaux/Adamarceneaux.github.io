@@ -10,9 +10,10 @@ body {
    }
 
    /* navigation menu */
-   nav {
-       background: rgb(239, 80, 41);
+   nav { 
+       background: rgb(200, 5, 3);
       margin: 0 auto;
+      margin-bottom: 20px;
        display: flex;
        padding: 10px;
    }
@@ -60,3 +61,7 @@ body {
    h2, h3 {
        margin: 0px;
    }
+   <nav 
+   
+   </nav>
+   
