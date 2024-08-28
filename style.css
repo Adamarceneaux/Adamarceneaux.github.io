@@ -68,15 +68,15 @@ h2, h3 {
         }
 
         #portfolio {
-            list-style-type: none;
-            padding-left: 0;
+            list-style-type:circle;
+            padding: left 60px;
         }
 
         #portfolio li {
-            background: #fff;
-            padding: 10px;
-            border-radius: 10px;
-            margin-bottom: 10px;
+            background: #e5de1b;
+            padding: 60px;
+            border-radius: 80px;
+            margin-bottom: 50px;
         }
 
         #portfolio li:hover {
@@ -84,6 +84,6 @@ h2, h3 {
         }
 
         #portfolio a {
-            text-decoration: none;
+            text-decoration: green wavy underline;
             color: #454545;
         }
